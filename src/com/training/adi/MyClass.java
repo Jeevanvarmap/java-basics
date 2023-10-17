@@ -9,7 +9,7 @@ public class MyClass {
 	    productsList.add(new Product(101,"Bat","Sports",1000));
 	    productsList.add(new Product(101,"Bat","Sports",1000));
 	    productsList.add(new Product(102,"Ball","Sports",90));
-	    productsList.add(new Product(103,"Wickets","Sports",1500));
+	    productsList.add(new Product(103,"Wits","Sports",1500));
 	    productsList.add(new Product(104,"pads","Sports",1100));
 	    productsList.add(new Product(105,"Car","Toys",900));
 	    productsList.add(new Product(106,"Bike","Toys",6000));
